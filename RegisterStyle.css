@@ -1,0 +1,19 @@
+input{
+    margin-bottom: 10px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.table{
+    margin-bottom: 50px;
+}
+table,td{
+    border: black 1px solid ;
+    border-collapse: collapse;
+}
+tr{
+    font-size: 30px;
+}
+
+.orginalPage{
+    margin-top: 50;
+}
